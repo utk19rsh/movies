@@ -1,0 +1,1398 @@
+[
+    {
+        "_embedded": {
+            "show": {
+                "id": 13818,
+                "url": "https://www.tvmaze.com/shows/13818/first-wives-club",
+                "name": "First Wives Club",
+                "type": "Scripted",
+                "language": "English",
+                "genres": [
+                    "Comedy"
+                ],
+                "status": "To Be Determined",
+                "runtime": null,
+                "averageRuntime": 30,
+                "premiered": "2019-09-19",
+                "ended": null,
+                "officialSite": "https://www.bet.plus/shows/first-wives-club/vpn8dt/season-3",
+                "schedule": {
+                    "time": "",
+                    "days": [
+                        "Thursday"
+                    ]
+                },
+                "rating": {
+                    "average": 5
+                },
+                "weight": 92,
+                "network": null,
+                "webChannel": {
+                    "id": 351,
+                    "name": "BET+",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": null
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 367657,
+                    "imdb": "tt7546362"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/439/1097621.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/439/1097621.jpg"
+                },
+                "summary": "<p>Based on the 1996 Paramount Pictures movie, the <b>First Wives Club </b>series will follow a group of women who band together after their marriages fall apart, and who find strength in their sisterhood - and of course a little revenge.</p>",
+                "updated": 1672674109,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/13818"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2449317"
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2438098"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/13818"
+            }
+        },
+        "airdate": "2022-12-01",
+        "airstamp": "2022-12-01T17:00:00+00:00",
+        "airtime": "",
+        "id": 2438098,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/432/1081943.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/432/1081943.jpg"
+        },
+        "name": "The Way You Do the Things You Do",
+        "number": 5,
+        "rating": {
+            "average": null
+        },
+        "runtime": 34,
+        "season": 3,
+        "summary": "<p>The ladies attempt to pull off their biggest heist yet, and Jayla and Hazel struggle to keep things strictly professional with their exes at work.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2438098/first-wives-club-3x05-the-way-you-do-the-things-you-do"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "id": 13818,
+                "url": "https://www.tvmaze.com/shows/13818/first-wives-club",
+                "name": "First Wives Club",
+                "type": "Scripted",
+                "language": "English",
+                "genres": [
+                    "Comedy"
+                ],
+                "status": "To Be Determined",
+                "runtime": null,
+                "averageRuntime": 30,
+                "premiered": "2019-09-19",
+                "ended": null,
+                "officialSite": "https://www.bet.plus/shows/first-wives-club/vpn8dt/season-3",
+                "schedule": {
+                    "time": "",
+                    "days": [
+                        "Thursday"
+                    ]
+                },
+                "rating": {
+                    "average": 5
+                },
+                "weight": 92,
+                "network": null,
+                "webChannel": {
+                    "id": 351,
+                    "name": "BET+",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": null
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 367657,
+                    "imdb": "tt7546362"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/439/1097621.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/439/1097621.jpg"
+                },
+                "summary": "<p>Based on the 1996 Paramount Pictures movie, the <b>First Wives Club </b>series will follow a group of women who band together after their marriages fall apart, and who find strength in their sisterhood - and of course a little revenge.</p>",
+                "updated": 1672674109,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/13818"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2449317"
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2440588"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/13818"
+            }
+        },
+        "airdate": "2022-12-01",
+        "airstamp": "2022-12-01T17:00:00+00:00",
+        "airtime": "",
+        "id": 2440588,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/432/1081944.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/432/1081944.jpg"
+        },
+        "name": "Ask the Lonely",
+        "number": 6,
+        "rating": {
+            "average": null
+        },
+        "runtime": 33,
+        "season": 3,
+        "summary": "<p>Hazel is caught off guard by Regina and Khalil's chemistry in the studio, Jayla realizes her ex isn't the same man she used to know, and David and Cousin Pam get a surprise visitor.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2440588/first-wives-club-3x06-ask-the-lonely"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "id": 16753,
+                "url": "https://www.tvmaze.com/shows/16753/wwe-main-event",
+                "name": "WWE Main Event",
+                "type": "Reality",
+                "language": "English",
+                "genres": [
+                    "Sports"
+                ],
+                "status": "Running",
+                "runtime": 60,
+                "averageRuntime": 60,
+                "premiered": "2012-10-03",
+                "ended": null,
+                "officialSite": "https://www.wwe.com/shows/wwemainevent",
+                "schedule": {
+                    "time": "",
+                    "days": [
+                        "Thursday"
+                    ]
+                },
+                "rating": {
+                    "average": null
+                },
+                "weight": 36,
+                "network": null,
+                "webChannel": {
+                    "id": 15,
+                    "name": "WWE Network",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": null
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 374470,
+                    "imdb": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/233/584404.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/233/584404.jpg"
+                },
+                "summary": "<p><b>WWE Main Event</b> is a professional wrestling television program produced by WWE that originally aired on Ion Television in the United States and it originally aired on the WWE Network now airing on Hulu.</p>",
+                "updated": 1664196898,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/16753"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2395107"
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2395103"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/16753"
+            }
+        },
+        "airdate": "2022-12-01",
+        "airstamp": "2022-12-01T17:00:00+00:00",
+        "airtime": "",
+        "id": 2395103,
+        "image": null,
+        "name": "Main Event 531",
+        "number": 48,
+        "rating": {
+            "average": null
+        },
+        "runtime": 60,
+        "season": 11,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2395103/wwe-main-event-11x48-main-event-531"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "id": 47633,
+                "url": "https://www.tvmaze.com/shows/47633/tyler-perrys-bruh",
+                "name": "Tyler Perry's Bruh",
+                "type": "Scripted",
+                "language": "English",
+                "genres": [
+                    "Comedy"
+                ],
+                "status": "Running",
+                "runtime": null,
+                "averageRuntime": 23,
+                "premiered": "2020-05-07",
+                "ended": null,
+                "officialSite": "https://www.bet.plus/shows/tyler-perrys-bruh",
+                "schedule": {
+                    "time": "",
+                    "days": [
+                        "Thursday"
+                    ]
+                },
+                "rating": {
+                    "average": 5.7
+                },
+                "weight": 87,
+                "network": null,
+                "webChannel": {
+                    "id": 351,
+                    "name": "BET+",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": null
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 381273,
+                    "imdb": "tt11273012"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/420/1050641.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/420/1050641.jpg"
+                },
+                "summary": "<p>\"Bruh,\" a slang term made popular by Black-Greek culture, refers to a friend so close they are more like a brother. For John, Tom, Mike and Bill, no expression could characterize their camaraderie more accurately. Whether fulfilling career dreams or finding love, these four college buddies now in their 30's find themselves learning to stand on their own two feet, while leaning on each other for support and guidance. Sometimes their love is tough and their honesty brutal, but they manage to see each other through every scenario with levity and laughter.</p>",
+                "updated": 1673209424,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/47633"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2465203"
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2453166"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/47633"
+            }
+        },
+        "airdate": "2022-12-01",
+        "airstamp": "2022-12-01T17:00:00+00:00",
+        "airtime": "",
+        "id": 2453166,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/436/1090753.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/436/1090753.jpg"
+        },
+        "name": "Pound Cake",
+        "number": 12,
+        "rating": {
+            "average": null
+        },
+        "runtime": 24,
+        "season": 3,
+        "summary": "<p>Darla helps Tom and Greg out of a jam, Regina makes a deal with Bill regarding her mother, and Littia refuses to leave the sandwich shop until she gets an apology from John and Alice.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2453166/tyler-perrys-bruh-3x12-pound-cake"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "id": 47633,
+                "url": "https://www.tvmaze.com/shows/47633/tyler-perrys-bruh",
+                "name": "Tyler Perry's Bruh",
+                "type": "Scripted",
+                "language": "English",
+                "genres": [
+                    "Comedy"
+                ],
+                "status": "Running",
+                "runtime": null,
+                "averageRuntime": 23,
+                "premiered": "2020-05-07",
+                "ended": null,
+                "officialSite": "https://www.bet.plus/shows/tyler-perrys-bruh",
+                "schedule": {
+                    "time": "",
+                    "days": [
+                        "Thursday"
+                    ]
+                },
+                "rating": {
+                    "average": 5.7
+                },
+                "weight": 87,
+                "network": null,
+                "webChannel": {
+                    "id": 351,
+                    "name": "BET+",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": null
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 381273,
+                    "imdb": "tt11273012"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/420/1050641.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/420/1050641.jpg"
+                },
+                "summary": "<p>\"Bruh,\" a slang term made popular by Black-Greek culture, refers to a friend so close they are more like a brother. For John, Tom, Mike and Bill, no expression could characterize their camaraderie more accurately. Whether fulfilling career dreams or finding love, these four college buddies now in their 30's find themselves learning to stand on their own two feet, while leaning on each other for support and guidance. Sometimes their love is tough and their honesty brutal, but they manage to see each other through every scenario with levity and laughter.</p>",
+                "updated": 1673209424,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/47633"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2465203"
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2453167"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/47633"
+            }
+        },
+        "airdate": "2022-12-01",
+        "airstamp": "2022-12-01T17:00:00+00:00",
+        "airtime": "",
+        "id": 2453167,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/436/1090754.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/436/1090754.jpg"
+        },
+        "name": "A Repeat",
+        "number": 13,
+        "rating": {
+            "average": null
+        },
+        "runtime": 24,
+        "season": 3,
+        "summary": "<p>Pamela warns Regina not to trust Bill, Greg confides in Tom about his ex-wife's financial demands, Regina introduces her mom to Alice, and Bill and Claudia make a horrifying discovery.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2453167/tyler-perrys-bruh-3x13-a-repeat"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "id": 47633,
+                "url": "https://www.tvmaze.com/shows/47633/tyler-perrys-bruh",
+                "name": "Tyler Perry's Bruh",
+                "type": "Scripted",
+                "language": "English",
+                "genres": [
+                    "Comedy"
+                ],
+                "status": "Running",
+                "runtime": null,
+                "averageRuntime": 23,
+                "premiered": "2020-05-07",
+                "ended": null,
+                "officialSite": "https://www.bet.plus/shows/tyler-perrys-bruh",
+                "schedule": {
+                    "time": "",
+                    "days": [
+                        "Thursday"
+                    ]
+                },
+                "rating": {
+                    "average": 5.7
+                },
+                "weight": 87,
+                "network": null,
+                "webChannel": {
+                    "id": 351,
+                    "name": "BET+",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": null
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 381273,
+                    "imdb": "tt11273012"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/420/1050641.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/420/1050641.jpg"
+                },
+                "summary": "<p>\"Bruh,\" a slang term made popular by Black-Greek culture, refers to a friend so close they are more like a brother. For John, Tom, Mike and Bill, no expression could characterize their camaraderie more accurately. Whether fulfilling career dreams or finding love, these four college buddies now in their 30's find themselves learning to stand on their own two feet, while leaning on each other for support and guidance. Sometimes their love is tough and their honesty brutal, but they manage to see each other through every scenario with levity and laughter.</p>",
+                "updated": 1673209424,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/47633"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2465203"
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2453168"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/47633"
+            }
+        },
+        "airdate": "2022-12-01",
+        "airstamp": "2022-12-01T17:00:00+00:00",
+        "airtime": "",
+        "id": 2453168,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/436/1090749.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/436/1090749.jpg"
+        },
+        "name": "Between A Rock And A Hard Place",
+        "number": 14,
+        "rating": {
+            "average": null
+        },
+        "runtime": 24,
+        "season": 3,
+        "summary": "<p>Darla and Greg try to make a fresh start, Tom and John discuss their concerns about Mike and Bill, and Alice and Hilda discover a troublesome similarity.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2453168/tyler-perrys-bruh-3x14-between-a-rock-and-a-hard-place"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "id": 54061,
+                "url": "https://www.tvmaze.com/shows/54061/fleishman-is-in-trouble",
+                "name": "Fleishman is in Trouble",
+                "type": "Scripted",
+                "language": "English",
+                "genres": [
+                    "Drama"
+                ],
+                "status": "Ended",
+                "runtime": null,
+                "averageRuntime": 52,
+                "premiered": "2022-11-17",
+                "ended": "2022-12-29",
+                "officialSite": "https://www.hulu.com/series/fleishman-is-in-trouble-710e51f8-3387-404d-8b07-e7c9b766d11c",
+                "schedule": {
+                    "time": "",
+                    "days": [
+                        "Thursday"
+                    ]
+                },
+                "rating": {
+                    "average": 5.2
+                },
+                "weight": 98,
+                "network": null,
+                "webChannel": {
+                    "id": 2,
+                    "name": "Hulu",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": "https://www.hulu.com/"
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 398362,
+                    "imdb": "tt11527058"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/436/1090938.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/436/1090938.jpg"
+                },
+                "summary": "<p>The series centers on recently separated fortysomething Toby Fleishman, who dives into the brave new world of app-based dating with the kind of success he never had dating in his youth, before he got married at the tail end of medical school. But just at the start of his first summer of sexual freedom, his ex-wife disappears, leaving him with the kids and no hint of where she is or whether she plans to return.</p>",
+                "updated": 1672315799,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/54061"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2399225"
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2399220"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/54061"
+            }
+        },
+        "airdate": "2022-12-01",
+        "airstamp": "2022-12-01T17:00:00+00:00",
+        "airtime": "",
+        "id": 2399220,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/432/1081637.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/432/1081637.jpg"
+        },
+        "name": "God, What an Idiot He Was!",
+        "number": 4,
+        "rating": {
+            "average": 5.3
+        },
+        "runtime": 44,
+        "season": 1,
+        "summary": "<p>Toby investigates Rachel's disappearance. Libby invites him on a trip to New Jersey.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2399220/fleishman-is-in-trouble-1x04-god-what-an-idiot-he-was"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "id": 59045,
+                "url": "https://www.tvmaze.com/shows/59045/partners-in-rhyme",
+                "name": "Partners in Rhyme",
+                "type": "Scripted",
+                "language": "English",
+                "genres": [
+                    "Comedy"
+                ],
+                "status": "Running",
+                "runtime": 30,
+                "averageRuntime": 30,
+                "premiered": "2021-11-18",
+                "ended": null,
+                "officialSite": "https://allblk.tv/partnersinrhyme/",
+                "schedule": {
+                    "time": "",
+                    "days": [
+                        "Thursday"
+                    ]
+                },
+                "rating": {
+                    "average": 1.1
+                },
+                "weight": 27,
+                "network": null,
+                "webChannel": {
+                    "id": 209,
+                    "name": "ALLBLK",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": null
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 396316,
+                    "imdb": "tt13787844"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/387/967863.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/387/967863.jpg"
+                },
+                "summary": "<p>An up-and-coming female high school rapper and social media sensation takes on her aunt, a hip-hop pioneer recently dropped by her record label, to become her manager.</p>",
+                "updated": 1669944277,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/59045"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2437482"
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2437482"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/59045"
+            }
+        },
+        "airdate": "2022-12-01",
+        "airstamp": "2022-12-01T17:00:00+00:00",
+        "airtime": "",
+        "id": 2437482,
+        "image": null,
+        "name": "All Ready",
+        "number": 8,
+        "rating": {
+            "average": null
+        },
+        "runtime": 30,
+        "season": 2,
+        "summary": "<p>Lana, Vicky and Mekhi are gearing up for the first day of Luscious' tour. Lana decides to take her future into her own hands and announces a major change.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2437482/partners-in-rhyme-2x08-all-ready"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "id": 62370,
+                "url": "https://www.tvmaze.com/shows/62370/hush",
+                "name": "Hush",
+                "type": "Scripted",
+                "language": "English",
+                "genres": [
+                    "Drama"
+                ],
+                "status": "Running",
+                "runtime": null,
+                "averageRuntime": 34,
+                "premiered": "2022-12-01",
+                "ended": null,
+                "officialSite": "https://allblk.tv/hush/",
+                "schedule": {
+                    "time": "",
+                    "days": [
+                        "Thursday"
+                    ]
+                },
+                "rating": {
+                    "average": null
+                },
+                "weight": 92,
+                "network": null,
+                "webChannel": {
+                    "id": 209,
+                    "name": "ALLBLK",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": null
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 421122,
+                    "imdb": "tt20195430"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/432/1081349.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/432/1081349.jpg"
+                },
+                "summary": "<p>Dr. Logan has built a successful practice discreetly catering to the between-the-sheets lives of her rich and famous clientele and publishing the definitive works on modern relationships and sexuality. With an A-list rolodex, this \"relationship fixer\" juggles midnight house calls for trysts gone wrong, destroys salacious content before it hits the gossip columns and hosts therapeutic couples' retreats for those in dire straits. Dr. Logan is the gatekeeper of everyone's secrets, but after she launches her \"Penthouse Project\", the deadly secrets of three women threaten her career and her life when a dead body is found, and the police identify her as the primary suspect.</p>",
+                "updated": 1672955364,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/62370"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2435897"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2435898"
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2372672"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/62370"
+            }
+        },
+        "airdate": "2022-12-01",
+        "airstamp": "2022-12-01T17:00:00+00:00",
+        "airtime": "",
+        "id": 2372672,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/433/1084140.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/433/1084140.jpg"
+        },
+        "name": "Like a Moth to a Flame",
+        "number": 1,
+        "rating": {
+            "average": 7
+        },
+        "runtime": 38,
+        "season": 1,
+        "summary": "<p>Dr. Draya Logan develops a selacious, but exciting case study of three desperate housewives with deadly repercussions.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2372672/hush-1x01-like-a-moth-to-a-flame"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "id": 63487,
+                "url": "https://www.tvmaze.com/shows/63487/wicked-city",
+                "name": "Wicked City",
+                "type": "Scripted",
+                "language": "English",
+                "genres": [
+                    "Drama",
+                    "Supernatural"
+                ],
+                "status": "Running",
+                "runtime": null,
+                "averageRuntime": 39,
+                "premiered": "2022-12-01",
+                "ended": null,
+                "officialSite": "https://allblk.tv/wickedcity/",
+                "schedule": {
+                    "time": "",
+                    "days": [
+                        "Thursday"
+                    ]
+                },
+                "rating": {
+                    "average": 3.8
+                },
+                "weight": 96,
+                "network": null,
+                "webChannel": {
+                    "id": 209,
+                    "name": "ALLBLK",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": null
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 421117,
+                    "imdb": "tt21058238"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/431/1079807.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/431/1079807.jpg"
+                },
+                "summary": "<p><b>Wicked City </b>follows five urban witches who push their supernatural powers to new heights after uncovering dark secrets and accidentally entering the world of the forbidden. While living their best life in Atlanta, four young, chic, modern-day witches, Jordan Davis, Mona De La Cruz, Angela Harris, and Sherise Baker make the acquaintance of Camille, a naturally powerful witch who is oblivious to her gift. Reluctantly, Camille joins the women for a spell, but things take a menacing turn resulting in an accidental death. The witches quickly perform a forbidden resurrection spell, however it is too late, as a dark sinister being is brought back from the other side. Now, between their complicated personal lives, unearthed secrets of the past, and attempting to defeat a powerful wraith, this coven is in for the most dangerous ride of their lives.</p>",
+                "updated": 1672959146,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/63487"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2435887"
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2372683"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/63487"
+            }
+        },
+        "airdate": "2022-12-01",
+        "airstamp": "2022-12-01T17:00:00+00:00",
+        "airtime": "",
+        "id": 2372683,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/433/1083050.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/433/1083050.jpg"
+        },
+        "name": "A Spell Too Far",
+        "number": 1,
+        "rating": {
+            "average": 3.3
+        },
+        "runtime": 45,
+        "season": 1,
+        "summary": "<p>When her mother warns she's in danger before dying, Camille sets off from LA to Atlanta looking for answers. In Atlanta, Jordan leads her witch friends Mona, Angela, and Sherise in a spell to gain more magickal power against their mentor's wishes. Elsewhere a powerful witch named Claudette plots revenge.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2372683/wicked-city-1x01-a-spell-too-far"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "id": 63761,
+                "url": "https://www.tvmaze.com/shows/63761/dimension-20s-adventuring-party",
+                "name": "Dimension 20's Adventuring Party",
+                "type": "Talk Show",
+                "language": "English",
+                "genres": [],
+                "status": "Running",
+                "runtime": 57,
+                "averageRuntime": 57,
+                "premiered": "2020-04-08",
+                "ended": null,
+                "officialSite": null,
+                "schedule": {
+                    "time": "",
+                    "days": []
+                },
+                "rating": {
+                    "average": null
+                },
+                "weight": 1,
+                "network": null,
+                "webChannel": {
+                    "id": 311,
+                    "name": "Dropout",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": null
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 391568,
+                    "imdb": "tt13280542"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/420/1050072.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/420/1050072.jpg"
+                },
+                "summary": "<p>Adventuring Party is a series of livestreamed talk-back episodes that aired after each new episode of A Crown of Candy. An additional episode was pre-recorded featuring the Pirates of Leviathan following the release of episode 4. Each Adventuring Party episode features the Dimension 20 cast as they talk about the events of the most recent episode, their experiences during that session, any unique challenges or situations they encountered, and answer as many fan questions as Brennan allows.</p><p><br /> </p>",
+                "updated": 1673105125,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/63761"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2464208"
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2441104"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/63761"
+            }
+        },
+        "airdate": "2022-12-01",
+        "airstamp": "2022-12-01T17:00:00+00:00",
+        "airtime": "",
+        "id": 2441104,
+        "image": null,
+        "name": "Royals, Scamps, and Townies",
+        "number": 1,
+        "rating": {
+            "average": null
+        },
+        "runtime": 57,
+        "season": 11,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2441104/dimension-20s-adventuring-party-11x01-royals-scamps-and-townies"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "id": 64528,
+                "url": "https://www.tvmaze.com/shows/64528/impact-x-nightline",
+                "name": "IMPACT x Nightline",
+                "type": "News",
+                "language": "English",
+                "genres": [],
+                "status": "To Be Determined",
+                "runtime": null,
+                "averageRuntime": 35,
+                "premiered": "2022-10-06",
+                "ended": null,
+                "officialSite": "https://www.hulu.com/watch/88ceaa35-dea2-49de-9985-8993d49574a0",
+                "schedule": {
+                    "time": "",
+                    "days": [
+                        "Thursday"
+                    ]
+                },
+                "rating": {
+                    "average": null
+                },
+                "weight": 35,
+                "network": null,
+                "webChannel": {
+                    "id": 2,
+                    "name": "Hulu",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": "https://www.hulu.com/"
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 426205,
+                    "imdb": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/437/1094931.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/437/1094931.jpg"
+                },
+                "summary": "<p>A weekly news magazine offering hard-hitting investigative reports, deep dives on stories in the news cycle, profiles of newsmakers, and celebrity interviews. Unfiltered, straight to the source reporting on the stories you're talking about and the ones you soon will be.</p>",
+                "updated": 1672330136,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/64528"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2457661"
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2457659"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/64528"
+            }
+        },
+        "airdate": "2022-12-01",
+        "airstamp": "2022-12-01T17:00:00+00:00",
+        "airtime": "",
+        "id": 2457659,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/437/1094940.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/437/1094940.jpg"
+        },
+        "name": "Taylor Swift's Ticketmaster Disaster and Retro Revolution",
+        "number": 8,
+        "rating": {
+            "average": null
+        },
+        "runtime": 33,
+        "season": 1,
+        "summary": "<p>We're breaking down the anatomy of a ticketing fiasco after Taylor Swift's \"The Eras\" tour seemed to break the platform. Plus, inside the booming business of nostalgia and why retro games are back in style.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2457659/impact-x-nightline-1x08-taylor-swifts-ticketmaster-disaster-and-retro-revolution"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "id": 66309,
+                "url": "https://www.tvmaze.com/shows/66309/la-rebelion",
+                "name": "La Rebelión",
+                "type": "Scripted",
+                "language": "Spanish",
+                "genres": [
+                    "Drama",
+                    "Crime",
+                    "Thriller"
+                ],
+                "status": "Ended",
+                "runtime": null,
+                "averageRuntime": 39,
+                "premiered": "2022-11-17",
+                "ended": "2022-12-15",
+                "officialSite": "https://vix.com/es/detail/series-3916",
+                "schedule": {
+                    "time": "",
+                    "days": []
+                },
+                "rating": {
+                    "average": null
+                },
+                "weight": 48,
+                "network": null,
+                "webChannel": {
+                    "id": 552,
+                    "name": "Vix",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": "https://vix.com/"
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 427796,
+                    "imdb": "tt17048042"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/441/1102670.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/441/1102670.jpg"
+                },
+                "summary": "<p>Four women decide to leave their homes unexpectedly without telling anyone their whereabouts, to rebel against their marriages and their lives as housewives that did not turn out as they thought. However, in addition to the trip, a murder will bring their lives together.</p>",
+                "updated": 1673458918,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/66309"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2466452"
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2466450"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/66309"
+            }
+        },
+        "airdate": "2022-12-01",
+        "airstamp": "2022-12-01T17:00:00+00:00",
+        "airtime": "",
+        "id": 2466450,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/441/1102948.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/441/1102948.jpg"
+        },
+        "name": "Secreto descubierto",
+        "number": 4,
+        "rating": {
+            "average": null
+        },
+        "runtime": 39,
+        "season": 1,
+        "summary": "<p>They all discover Yvonne's secret and discuss what to do about it. Raymundo and Mauricio begin to approach the place where the 4 friends are hiding. Regina and Diego rush to find them first to warn them.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2466450/la-rebelion-1x04-secreto-descubierto"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "id": 64625,
+                "url": "https://www.tvmaze.com/shows/64625/im-literally-screaming",
+                "name": "I'm Literally Screaming",
+                "type": "Talk Show",
+                "language": "English",
+                "genres": [],
+                "status": "Running",
+                "runtime": null,
+                "averageRuntime": 54,
+                "premiered": "2022-10-13",
+                "ended": null,
+                "officialSite": "https://www.youtube.com/playlist?list=PLJOq3sRdka18NRtxLUFdDrtQX9ZxOO5Gu",
+                "schedule": {
+                    "time": "15:00",
+                    "days": [
+                        "Thursday"
+                    ]
+                },
+                "rating": {
+                    "average": null
+                },
+                "weight": 2,
+                "network": null,
+                "webChannel": {
+                    "id": 274,
+                    "name": "Brat",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": null
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": null,
+                    "imdb": null
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/432/1082349.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/432/1082349.jpg"
+                },
+                "summary": "<p>Join Spencewuah and a rotating cast of guest hosts in this brand new Vodcast that gives a candid and unfiltered glimpse into their crazy lives and the time we're living in. From personal stories, to pop culture commentary, to spilling the tea on their influencer lives, Spencewuah and his co-host will NOT be holding back - so buckle up!</p>",
+                "updated": 1672979911,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/64625"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2463437"
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2442182"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/64625"
+            }
+        },
+        "airdate": "2022-12-01",
+        "airstamp": "2022-12-01T20:00:00+00:00",
+        "airtime": "15:00",
+        "id": 2442182,
+        "image": null,
+        "name": "Boyfriend ASMR Put Me to Sleep",
+        "number": 8,
+        "rating": {
+            "average": null
+        },
+        "runtime": 48,
+        "season": 1,
+        "summary": "<p>Aliyahs Interlude joins Spencer on the show to talk getting braces removed at a lash studio, what they would do in the Nickelodeon writer's room, why Sharpay deserved better, and so much more! </p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2442182/im-literally-screaming-1x08-boyfriend-asmr-put-me-to-sleep"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "id": 26341,
+                "url": "https://www.tvmaze.com/shows/26341/puppy-dog-pals",
+                "name": "Puppy Dog Pals",
+                "type": "Animation",
+                "language": "English",
+                "genres": [
+                    "Comedy",
+                    "Children"
+                ],
+                "status": "Running",
+                "runtime": 15,
+                "averageRuntime": 15,
+                "premiered": "2017-04-14",
+                "ended": null,
+                "officialSite": "https://disneynow.com/shows/puppy-dog-pals",
+                "schedule": {
+                    "time": "08:30",
+                    "days": [
+                        "Friday"
+                    ]
+                },
+                "rating": {
+                    "average": 8
+                },
+                "weight": 85,
+                "network": {
+                    "id": 78,
+                    "name": "Disney Channel",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": null
+                },
+                "webChannel": {
+                    "id": 83,
+                    "name": "DisneyNOW",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": null
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 325978,
+                    "imdb": "tt6688750"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/136/342487.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/136/342487.jpg"
+                },
+                "summary": "<p><b>Puppy Dog Pals </b>is about fun-loving pug puppies, brothers Bingo and Rolly, have thrill-seeking appetites that take them on exhilarating adventures in their neighborhood and around the globe. Whether helping their owner Bob or assisting a friend in need, the pugs' motto is that life is more exciting with your best friend by your side. Each episode features two 11-minute stories that showcase Bingo and Rolly's similarities and differences while demonstrating positive lessons about friendship, problem-solving, collaboration, creativity and adventure.</p>",
+                "updated": 1671527927,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/26341"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2451990"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2452005"
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2434905"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/26341"
+            }
+        },
+        "airdate": "2022-12-01",
+        "airstamp": "2022-12-02T00:00:00+00:00",
+        "airtime": "19:00",
+        "id": 2434905,
+        "image": null,
+        "name": "Wrap Party Pups",
+        "number": 33,
+        "rating": {
+            "average": null
+        },
+        "runtime": 15,
+        "season": 5,
+        "summary": "<p>The pets go on a mission to find Grace's gift before she needs to swap presents.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2434905/puppy-dog-pals-5x33-wrap-party-pups"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "id": 26341,
+                "url": "https://www.tvmaze.com/shows/26341/puppy-dog-pals",
+                "name": "Puppy Dog Pals",
+                "type": "Animation",
+                "language": "English",
+                "genres": [
+                    "Comedy",
+                    "Children"
+                ],
+                "status": "Running",
+                "runtime": 15,
+                "averageRuntime": 15,
+                "premiered": "2017-04-14",
+                "ended": null,
+                "officialSite": "https://disneynow.com/shows/puppy-dog-pals",
+                "schedule": {
+                    "time": "08:30",
+                    "days": [
+                        "Friday"
+                    ]
+                },
+                "rating": {
+                    "average": 8
+                },
+                "weight": 85,
+                "network": {
+                    "id": 78,
+                    "name": "Disney Channel",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": null
+                },
+                "webChannel": {
+                    "id": 83,
+                    "name": "DisneyNOW",
+                    "country": {
+                        "name": "United States",
+                        "code": "US",
+                        "timezone": "America/New_York"
+                    },
+                    "officialSite": null
+                },
+                "dvdCountry": null,
+                "externals": {
+                    "tvrage": null,
+                    "thetvdb": 325978,
+                    "imdb": "tt6688750"
+                },
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/136/342487.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/136/342487.jpg"
+                },
+                "summary": "<p><b>Puppy Dog Pals </b>is about fun-loving pug puppies, brothers Bingo and Rolly, have thrill-seeking appetites that take them on exhilarating adventures in their neighborhood and around the globe. Whether helping their owner Bob or assisting a friend in need, the pugs' motto is that life is more exciting with your best friend by your side. Each episode features two 11-minute stories that showcase Bingo and Rolly's similarities and differences while demonstrating positive lessons about friendship, problem-solving, collaboration, creativity and adventure.</p>",
+                "updated": 1671527927,
+                "_links": {
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/26341"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2451990"
+                    },
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2452005"
+                    }
+                }
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2434906"
+            },
+            "show": {
+                "href": "https://api.tvmaze.com/shows/26341"
+            }
+        },
+        "airdate": "2022-12-01",
+        "airstamp": "2022-12-02T00:15:00+00:00",
+        "airtime": "19:15",
+        "id": 2434906,
+        "image": null,
+        "name": "Fixing Santa's Sleigh",
+        "number": 34,
+        "rating": {
+            "average": null
+        },
+        "runtime": 15,
+        "season": 5,
+        "summary": "<p>When Santa's sleigh breaks down mid-delivery, the pets make it their mission to fix it.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2434906/puppy-dog-pals-5x34-fixing-santas-sleigh"
+    }
+]

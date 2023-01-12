@@ -1,5 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
+import 'package:suspense/screens/home.dart';
 
 class MyApp extends StatefulWidget {
   const MyApp({super.key});
@@ -20,9 +21,7 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       title: 'Suspense',
       home: Scaffold(
-        body: Center(
-          child: Text("Hello"),
-        ),
+        body: Home(),
       ),
     );
   }
