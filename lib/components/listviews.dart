@@ -118,9 +118,9 @@ class _BodyState extends State<Body> {
         images.add(image);
       }
     }
-    setState(() {
-      isLoading = false;
-    });
+    if (mounted) {
+      setState(() => isLoading = false);
+    }
   }
 
   @override

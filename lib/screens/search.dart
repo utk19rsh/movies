@@ -36,14 +36,16 @@ class _SearchState extends State<Search> {
       for (int i = 0; i < body.length; i++) {
         dynamic json = body[i];
         Map<String, dynamic> details = json["show"] as Map<String, dynamic>;
-        var temp = details["image"] as Map;
-        movies.add(
-          Movie.fromJson(
-            id: details["id"],
-            name: details["name"],
-            image: temp["original"],
-          ),
-        );
+        if (details["image"] != null) {
+          var temp = details["image"] as Map;
+          movies.add(
+            Movie.fromJson(
+              id: details["id"],
+              name: details["name"],
+              image: temp["original"],
+            ),
+          );
+        }
       }
     }
     setState(() => isLoading = false);
@@ -65,7 +67,7 @@ class _SearchState extends State<Search> {
           cursorHeight: 20,
           cursorColor: theme,
           controller: searchController,
-          onChanged: (value) =>  searchValue = value,
+          onChanged: (value) => searchValue = value.trim(),
           decoration: InputDecoration(
             border: border(),
             errorBorder: border(),
