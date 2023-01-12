@@ -1,7 +1,6 @@
-# suspense
+# Movies
 
-A new Flutter project.
-
+Fetching and displaying a list of movies along with search functionality.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
