@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "438118686694",
+    "project_id": "suspense-utk19rsh",
+    "storage_bucket": "suspense-utk19rsh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438118686694:android:8d302abe1754be58a34027",
+        "android_client_info": {
+          "package_name": "com.utk19rsh.suspense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438118686694-evhdg4cibrgglk6b25bt1svsfbbui57o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utk19rsh.suspense",
+            "certificate_hash": "f683097ef6544442be568602f233d9f350eab5e1"
+          }
+        },
+        {
+          "client_id": "438118686694-bqutt7c032hnqteai673prvsctbr9fg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5v2Z7oqRHmZDhSWIMLm_yhRN4fAXexd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438118686694-bqutt7c032hnqteai673prvsctbr9fg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
